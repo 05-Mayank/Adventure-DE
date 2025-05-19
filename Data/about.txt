@@ -1,1 +1,0 @@
-This data set contains data of sales and customer. This data set can be used for creaing end to end data engineering project
